@@ -31,3 +31,10 @@ npm run dev
 cd frontend
 npm run build
 ```
+
+## Site Examples
+
+Some websites built with this boilerplate:
+
+[DJ Yang's Website](https://djyang.netlify.app)
+[Meiyin Ooi's personal portfolio](https://meiyin-pf.netlify.app)
