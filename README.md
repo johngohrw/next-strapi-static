@@ -2,7 +2,7 @@
 
 Static-Site-Generation (SSG) using Next.js with Strapi as CMS.
 
-# Opinionated Boilerplate
+### Opinionated Boilerplate
 
 The code at `main` branch will remain unopinionated and minimal. For a more opinionated starting point, check out the `opinionated` branch.
 
