@@ -1,6 +1,6 @@
 # next-strapi-static
 
-Static-Site-Generation (SSG) using Next.js with Strapi as CMS.
+A static site generation boilerplate using Next.js, Strapi.
 
 ### Opinionated Boilerplate
 
