@@ -1,6 +1,6 @@
 # next-strapi-static
 
-A static site generation boilerplate using Next.js, Strapi.
+A static site generation boilerplate using Next.js and Strapi.
 
 ### Opinionated Boilerplate
 
